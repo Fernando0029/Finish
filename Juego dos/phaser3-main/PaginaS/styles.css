@@ -1,0 +1,177 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+
+    main {
+        margin: 2%;
+    }
+    
+.todo {
+    background-color: blanchedalmond;
+    
+}
+
+    #header {
+        font-size: 19px;
+        text-align: center;
+        font-family: sans-serif;
+        font-weight: bold;
+        background-color: #f8f8f8;
+        color: rgb(0, 0, 0);
+        padding-top: .6%;
+        padding-bottom: .6%;
+        border: 3px solid #000;
+    }
+    
+    header > h1 {
+        display: inline-block;
+        background-color: transparent;
+        text-align: center;
+    }
+
+    h3 {
+        display: inline-block;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    text-align: justify;
+    }
+    h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    text-align: center;
+    text-decoration-color: darkblue;
+    }
+    p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    text-align: justify;
+    }
+    #logo {
+        margin-left: 30px;
+        margin-right: 15px;
+        width: 200px;
+        background-color: transparent;
+    }
+    
+    #navegacion {
+        display: inline-block;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 600;
+        margin-left: 80%;
+        position: absolute;
+        top: 20px;
+    }
+    
+    #navegacion > a {
+        color: #000000;
+        margin-right: 20px;
+        text-decoration: none;
+    }
+
+    #inicio {
+        position: relative;
+    }
+
+    #acerca {
+        position: relative;
+    }
+
+    #inicio:hover {
+        top: -5px;
+        border-bottom: 4px #030501 solid;
+        text-shadow: 0px 8px 20px rgb(221, 214, 214);
+    }
+
+    #acerca:hover {
+        top: -5px;
+        border-bottom: 4px #71f3c0 solid;
+        text-shadow: 0px 8px 20px #000;
+    }
+
+    #pregunta {
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 900;
+    }
+    
+    #parrafo-1 {
+        font-size: 30px;
+        font-weight: lighter;
+        color: #000;
+    }
+
+    .tipos {
+        font-size: 20px;
+    }
+    #texto-1 {
+        font-size: 45px;
+        color: #ffffff;
+        background-color: #000000;
+        font-family: bebas neue;
+        font-weight: lighter;
+        text-align: center;
+        border: 10px solid #000;
+        margin: 0 -2% 0 -2%;
+    }
+
+    #texto-2 {
+        font-size: 45px;
+        color: #ffffff;
+        background-color: #000000;
+        font-family: bebas neue;
+        font-weight: lighter;
+        text-align: center;
+        border: 10px solid #000;
+        margin: 0 -2% 0 -2%;
+    }
+    
+
+    #Termine {
+        width: 100%;
+        height: 100px;
+        background-color: #000;
+        color: #fff;
+        font-size: 20px;
+        text-align: center;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .img-menu {
+        display: inline-block;
+        margin: 11px;
+        border: 5px #000 solid;
+        padding: 20px 0 0px;
+        border-radius: 30px;
+    }
+
+    .img-menu:hover {
+        box-shadow: 2px 2px 35px 0 rgb(204, 0, 0);
+    }
+
+    .img-menu > img {
+        width: 400px;
+    }
+
+    .img-menu > p {
+        font-size: 25px;
+        text-decoration: none;
+        color: #000;
+        text-align: center;
+    }
+
+    .a-href {
+        text-decoration: none;
+    }
+
+    .energia {
+        background-color: #fcfcfc;
+        text-align: center;
+    }
+
